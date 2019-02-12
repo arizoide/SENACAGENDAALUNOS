@@ -23,5 +23,7 @@ public class MainActivity extends AppCompatActivity {
 
         //Atribui o adapter para o ListView.
         contatosListView.setAdapter(adapter);
+
+        //Testes commit
     }
 }
